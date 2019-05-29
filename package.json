@@ -1,0 +1,11 @@
+{
+  "name": "mume-runner",
+  "version": "1.0.0",
+  "description": "Headless document generation for Markdown documents",
+  "license": "Apache-2.0",
+  "repository": "github:inosion/mume-runner",
+  "dependencies": {
+    "docopt": "*",
+    "@shd101wyy/mume": "*"
+  }
+}
